@@ -1,0 +1,8 @@
+//request.http
+
+POST http://34.95.134.247:5005/webhooks/rest/webhook
+content-type: application/json
+
+{
+    "message": "oq eh SGF"
+}
